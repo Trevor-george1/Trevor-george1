@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Trevor-george1
-- 👀 I’m interested in software development and backend web development
-- 🌱 I’m currently learning data structures and algorithm in C++
+- I am a Student at ALX africa
+- 👀 I’m interested in software and web development.
+- 🌱 I’m currently learning shell C Language
 - 💞️ I’m looking to collaborate on many outsource projects
 - 📫 How to reach me @trevormahinda@gmail.com
 
