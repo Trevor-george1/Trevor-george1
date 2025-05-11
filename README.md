@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Trevor-george1
-- I am a Student at ALX africa
+-
 - 👀 I’m interested in software and web development.
-- 🌱 I’m currently learning shell C Language
+-  Graduated from ALX africa
+- 🌱 I’m currently learning on working with open LLM's to created RAG projects
 - 💞️ I’m looking to collaborate on many outsource projects
 - 📫 How to reach me @trevormahinda@gmail.com
 
